@@ -1,6 +1,6 @@
 # (helloWorld...)
 
-* 🎓 FATEC - Desenvolvimento de Software Multiplataforma - 2° Semestre(Cursando)
+* 🎓 FATEC - Desenvolvimento de Software Multiplataforma
 <div align="center">
 
 ![mario-dancing](https://user-images.githubusercontent.com/112342764/218348478-d37e201f-6f2b-4a61-b5ac-62547c38def8.gif)
