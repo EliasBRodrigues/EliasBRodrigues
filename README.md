@@ -22,6 +22,7 @@ Java and Javascript, as well as the use of frameworks such as Spring and Node.JS
 # 💻 skills
 <div>
 <img src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
