@@ -19,8 +19,9 @@ Java and Javascript, as well as the use of frameworks such as Spring.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasBRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-# 💻 skills
+# 📌 skills
 I have knowledge in systems design and implementation, problem solving and performance optimization.
+
 ### 🖥️ programming language
 <div>
  <img src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white" />
