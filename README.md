@@ -1,12 +1,12 @@
 # :writing_hand: helloEveryone
 
 <div>
- Junior Software Developer with experience in programming languages ​​such as Java and JavaScript. Demonstrated skills in software development projects, collaborating in agile teams and contributing to the complete software lifecycle. 
+ junior Software Developer with experience in programming languages ​​such as Java and JavaScript. Demonstrated skills in software development projects, collaborating in agile teams and contributing to the complete software lifecycle. 
 </div>
 
 # :rocket: experienceTech
 <div>
-  With 3 years of professional experience in software development, I have dedicated my
+  professional experience in software development, I have dedicated my
 last two years in Back-end development, dedicating myself to programming languages
 Java and Javascript, as well as the use of frameworks such as Spring.
 </div>
@@ -20,7 +20,7 @@ Java and Javascript, as well as the use of frameworks such as Spring.
 </div>
 
 # 📌 skills
-I have knowledge in systems design and implementation, problem solving and performance optimization.
+knowledge in systems design and implementation, problem solving and performance optimization.
 
 ### 🖥️ programming language
 <div>
