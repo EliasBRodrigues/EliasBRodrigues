@@ -1,7 +1,7 @@
 # :writing_hand: helloEveryone
 
 <div>
- junior Software Developer with experience in programming languages ​​such as Java and JavaScript. Demonstrated skills in software development projects, collaborating in agile teams and contributing to the complete software lifecycle. 
+ junior software developer with experience in programming languages ​​such as Java and JavaScript. Demonstrated skills in software development projects, collaborating in agile teams and contributing to the complete software lifecycle. 
 </div>
 
 # :rocket: experienceTech
