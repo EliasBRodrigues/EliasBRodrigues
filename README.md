@@ -1,7 +1,7 @@
 # :writing_hand: helloEveryone
 
 <div>
- junior software developer with experience in programming languages ​​such as Java and JavaScript. Demonstrated skills in software development projects, collaborating in agile teams and contributing to the complete software lifecycle. 
+ junior software developer with experience in programming languages ​​such as Java and JavaScript.
 </div>
 
 # :rocket: experienceTech
@@ -19,16 +19,12 @@ Java and Javascript, as well as the use of frameworks such as Spring.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasBRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-# 📌 skills
-knowledge in systems design and implementation, problem solving and performance optimization.
-
 ### 🖥️ programming language
 <div>
  <img src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="https://img.shields.io/badge/Kotlin-663399?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
 ### 🔗 framework && library
