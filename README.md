@@ -1,14 +1,12 @@
 # :writing_hand: helloEveryone
-
 <div>
  junior software developer with experience in programming languages ​​such as Java and JavaScript.
 </div>
 
 # :rocket: experienceTech
 <div>
-  professional experience in software development, I have dedicated my
-last two years in Back-end development, dedicating myself to programming languages
-Java and Javascript, as well as the use of frameworks such as Spring.
+experience in software development, I have dedicated my
+last two years in Back-end development
 </div>
 <br/>
 
@@ -40,4 +38,8 @@ Java and Javascript, as well as the use of frameworks such as Spring.
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
 </div>
+
+### ☁️ cloud
+<img width="270" height="270" alt="aws-knowledge-cloud-essentials (1)" src="https://github.com/user-attachments/assets/68c575f3-84a2-4e23-9137-5c7780eedcce" />
